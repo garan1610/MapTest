@@ -1,6 +1,6 @@
 ## Web Demo
 [![Watch the video]
-(https://raw.githubusercontent.com/garan1610/MapTest/blob/main/MapWebDemo.mp4)]
+(https://raw.githubusercontent.com/garan1610/MapTest/main/MapWebDemo.mp4)]
 
 ##
 
