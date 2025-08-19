@@ -1,5 +1,5 @@
 ## Web Demo
-[![Watch the video](https://raw.githubusercontent.com/garan1610/MapTest/main/MapWebDemo.mp4)]
+<video src="MapWebDemo.mp4" width="320" height="240" controls></video>
 
 ##
 
