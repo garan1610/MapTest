@@ -3,7 +3,7 @@ Video
 https://drive.google.com/file/d/1sR9wL4zIswvs4cmbfY7GGXuxYSV0M57o/view?usp=sharing
 
 Images
-<img src="public/assets/demo1.png" width="256" alt='logo'>
+<img src="public/asset/demo1.JPG" width="256" alt='logo'>
 
 ##
 
