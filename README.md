@@ -1,6 +1,6 @@
 ## Web Demo
 
-<video src="/MapWebDemo.mp4" width="320" height="240" controls>
+<video src="/MapWebDemo.mp4" width="320" height="240" controls/>
 
 ##
 
